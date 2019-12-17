@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Chapter 1 Scenes/chselect.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
